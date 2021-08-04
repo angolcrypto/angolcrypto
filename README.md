@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @angolcrypto
+- 👀 I’m interested in cryptocurrency
+- 🌱 Learning Solidity
+- 💞️ Collaborating on Python Projects
+- 📫 @angolcrypto on Telegram
